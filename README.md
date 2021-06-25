@@ -1,4 +1,4 @@
-## Root
+# Root
 Custom eCommerce application built with the MERN stack with the following functionality:
 
 #### Users can...
@@ -24,3 +24,19 @@ Custom eCommerce application built with the MERN stack with the following functi
 * **JWT authentication**
 * **PayPal API**
 * **Heroku deployment**
+
+## Usage
+
+### Login
+On the *Sign In* screen, either **register** as a new user or **login** as an existing user.  
+Login with admin@example.com to test **admin** functionality.   
+ 
+ Email | Password | isAdmin
+ ------|----------|--------
+ anita@example.com | 123456 | :x:
+ curly@example.com | 123456 | :x:
+ ima@example.com | 123456 | :x:
+ admin@example.com | 123456 | :heavy_check_mark:
+
+### Payment
+A PayPal Sandbox account is required to use the PayPal payment functionality.
