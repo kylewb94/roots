@@ -1,4 +1,4 @@
-# Root
+# Roots
 Custom eCommerce application built with the MERN stack with the following functionality:
 
 #### Users can...
